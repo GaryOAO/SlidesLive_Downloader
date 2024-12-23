@@ -1,0 +1,5 @@
+selenium>=4.0.0
+requests>=2.25.1
+tqdm>=4.65.0
+img2pdf>=0.4.0
+beautifulsoup4>=4.9.3 

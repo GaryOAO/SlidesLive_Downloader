@@ -9,7 +9,7 @@ A **fast** and **efficient** tool to download presentations from **SlidesLive** 
 - **💨 Multi-threaded downloading** for blazing-fast speeds
 - **🔄 Automatic retry** mechanism for failed downloads
 - **📊 Real-time progress tracking** during the download
-- **🎨 High-quality slide downloads** (1080p)
+- **🎨 High-quality slide downloads**
 - **📄 Automatic PDF conversion** from slides
 - **⚡ Simple, user-friendly command-line interface**
 
